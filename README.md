@@ -50,28 +50,28 @@ A full-stack real-time chat application that enables users to sign up, log in se
 ## 📸 Screenshots
 
 #### 🔹 Signup Page
-![Signup](/frontend/public/screentshots/signup.png")
+![Signup](/frontend/public/screenshots/signup.png")
 
 #### 🔹 Welcome Mail
-![Welcome](/frontend/public/screentshots/welcome.png")
+![Welcome](/frontend/public/screenshots/welcome.png")
 
 #### 🔹 Login Page
-![Login](/frontend/public/screentshots/login.png")
+![Login](/frontend/public/screenshots/login.png")
 
 #### 🔹 Contact List
-![Contact](/frontend/public/screentshots/contact.png")
+![Contact](/frontend/public/screenshots/contact.png")
 
 #### 🔹 Chat Interface
-![Chat](/frontend/public/screentshots/chat.png")
+![Chat](/frontend/public/screenshots/chat.png")
 
 #### 🔹 Real-Time Messaging
-![Messaging](/frontend/public/screentshots/messaging.png")
+![Messaging](/frontend/public/screenshots/messaging.png")
 
 #### 🔹 Image / Media Sharing
-![Sharing](/frontend/public/screentshots/sharing.png")
+![Sharing](/frontend/public/screenshots/sharing.png")
 
 #### 🔹 Porfile Pic Update
-![Sharing](/frontend/public/screentshots/update.png")
+![Update](/frontend/public/screenshots/update.png")
 
 
 ## ⚙️ Installation & Setup
