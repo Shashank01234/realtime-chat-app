@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @property --border-angle {
+@property --border-angle {
   inherits: false;
   initial-value: 0deg;
   syntax: "<angle>";
@@ -32,4 +32,4 @@
 .auth-link {
   @apply px-4 py-2 inline-block bg-cyan-500/10 rounded-lg text-cyan-400
   hover:text-cyan-500 text-sm transition-colors;
-} */
+}
